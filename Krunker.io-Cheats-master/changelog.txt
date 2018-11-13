@@ -1,0 +1,34 @@
+# Changelog
+
+## [0.7.70] - 
+- Automatic data storage in the menu has been added
+- The ability to change the assigned keys has been added
+
+## [0.7.69] - 06.09.2018
+- The code has been updated to version: 0.9.9993
+
+## [0.7.68] - 06.09.2018
+- The problem with turning off autoAim has been fixed
+
+## [0.7.67] - 06.09.2018
+- If you want to activate the autoAim you have to press the right mouse button.[available in the menu]
+
+## [0.7.66] - 05.09.2018
+- Auto jumps added(just hold down the space).
+- Automatic shooting has been added.    [disabled by default][available in the menu]
+- A smoother aim option has been added. [disabled by default][available in the menu]
+
+## [0.7.65] - 04.09.2018
+- Menu added.
+- Automatic update information has been added.
+
+## [0.7.64] - 03.09.2018
+- The problem with endless page loading has been fixed.
+- The problem with cleaning the pressed keys has been fixed(after the round).
+
+## [0.7.63] - 03.09.2018
+- The ability to disable the cheat has been added(button Z).
+- If you need to temporary disable auto aim, just hold Left shift key.
+
+## [0.7.62] - 03.09.2018
+- Changing the way files are loaded.
